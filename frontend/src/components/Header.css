@@ -1,0 +1,12 @@
+.header a {
+    color: white;
+    font-style: normal;
+    text-decoration: none;
+  }
+
+.header .text-cl a:hover{
+  /* background-color: red; */
+  text-decoration: underline;
+}
+
+  

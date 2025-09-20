@@ -1,0 +1,13 @@
+.container{
+    background-color: red;
+    border: 1px solid white;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+}
+
+div h2{
+    color: white;
+}
